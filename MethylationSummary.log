@@ -1,0 +1,54 @@
+[1] "cAalba-1_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   87.89  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
+[1] "cAalba-2_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   87.49  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
+[1] "cAalba-3_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   87.88  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
+[1] "cAalba-4_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   87.95  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
+[1] "cAalba-5_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   87.87  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
+[1] "cAalba-6_R1_val_1_bismark_bt2.bismark.cov.gz_MethylationSummary:"
+methylation statistics per base
+summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00  100.00  100.00   86.94  100.00  100.00 
+percentiles:
+   0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   95%   99% 99.5% 99.9%  100% 
+    0     0   100   100   100   100   100   100   100   100   100   100   100   100   100 
+
